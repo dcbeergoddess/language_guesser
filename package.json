@@ -1,0 +1,24 @@
+{
+  "name": "language_guesser",
+  "version": "1.0.0",
+  "description": "Simple App to guess Langauge using the Terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcbeergoddess/language_guesser.git"
+  },
+  "author": "Rachel Murray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcbeergoddess/language_guesser/issues"
+  },
+  "homepage": "https://github.com/dcbeergoddess/language_guesser#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "franc": "^5.0.0",
+    "langs": "^2.0.0"
+  }
+}
