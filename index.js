@@ -7,7 +7,7 @@ const colors = require('colors');
 // langs.where("3", "kor");
 
 const msg = process.argv[2] 
-console.log(msg)
+// console.log(msg)
 const langCode = franc(msg)
 console.log(langCode);
 
