@@ -40,4 +40,6 @@ Test the application and generate a README using the following command
 ## Questions
 
 ![Image of dcbeergoddess](https://avatars.githubusercontent.com/u/59098488?v=4&s=200)
-* [**Contact Me**](mailto:dcbeergoddess@gmail.com?subject=Simple Language Guesser in Node.JS)
+* [**Contact Me**](mailto:dcbeergoddess@gmail.com)
+* [**INSTAGRAM**](https://www.instagram.com/dcbeergoddess/)
+* [**TWITTER**](https://twitter.com/dcbeergoddess)

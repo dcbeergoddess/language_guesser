@@ -16,6 +16,5 @@ if (langCode === 'und'){
 } else {
   const detectLang = langs.where("3", langCode);
   console.log(`WE DETECT THIS IS: ${detectLang.name}`.red)
-}
-
+};
 
