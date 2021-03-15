@@ -6,6 +6,10 @@
 
 A Command Line APP to detect the language submitted in the application using command line tools
 
+**RESOURCES**
+* [FRANC GITHUB REPO](https://github.com/wooorm/franc)
+* [LANGS NPM](https://www.npmjs.com/package/langs)
+
 ## Table Of Contents
 
 * [Installation](#installation)
